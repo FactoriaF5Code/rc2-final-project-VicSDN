@@ -1,4 +1,5 @@
 ## Planificación del Proyecto: FutsalMaratón
+ Enlace a trello : https://trello.com/invite/b/Nn8SRtNw/ATTI010ca083cc1d1577609475bfa62e6b1a6F72BC00/cangas-cup-2024 . Aquí está el enlace a todo, diseño y dentro de la cada tarjeta de trello una descripción y diagrama para el proyecto.
 
 ## Objetivo
 
